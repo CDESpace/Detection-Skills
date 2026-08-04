@@ -1,0 +1,23 @@
+# node / npm
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log*
+.npm/
+
+# environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editors
+.idea/
+.vscode/
+
+# AI assistant local files
+CLAUDE.local.md
+.aider*
+.codex/

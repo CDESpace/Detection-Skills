@@ -1,0 +1,9 @@
+# Changes to these paths require review from a maintainer. GitHub reads this
+# file from the base branch, so a pull request cannot edit it to exempt itself.
+*                   @nir-vega
+
+/CODEOWNERS         @nir-vega
+/.github/           @nir-vega
+/scripts/           @nir-vega
+/package.json       @nir-vega
+/package-lock.json  @nir-vega
