@@ -4,7 +4,7 @@ description: From an engineer-approved benign verdict on a basic-auth guess-succ
 type: tuning
 version: 1.0.0
 metadata:
-  author: <your name>
+  author: Jason Payne
   labels: [web, access-log, basic-auth, detection-tuning]
 ---
 

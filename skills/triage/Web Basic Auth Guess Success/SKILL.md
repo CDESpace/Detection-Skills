@@ -4,7 +4,7 @@ description: Triage a 2xx after a run of 401s from one source on one HTTP basic-
 type: triage
 version: 1.0.0
 metadata:
-  author: <your name>
+  author: Jason Payne
   labels: [web, access-log, apache, nginx, basic-auth, credential-guessing, owasp-a07]
 ---
 

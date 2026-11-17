@@ -4,7 +4,7 @@ description: Investigate an escalated basic-auth guess-success alert from access
 type: investigation
 version: 1.0.0
 metadata:
-  author: <your name>
+  author: Jason Payne
   labels: [web, access-log, basic-auth, credential-guessing, owasp-a07]
 ---
 
